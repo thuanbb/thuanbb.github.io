@@ -15,7 +15,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 ## News
 
 - **[Oct. 2022]**  I will serve as a volunteer of [IROS 2022](https://iros2022.org/).
-- **[April. 2022]** Our paper about [absolute camera pose regression](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241) is accepted to [ISPRS 2021](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).
+- **[April. 2022]** Our paper about [absolute camera pose regression](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241) is accepted to [ISPRS 2022](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=Uf9GqRsAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/12/10033-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
