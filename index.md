@@ -14,16 +14,8 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 ## News
 
-- **[Aug. 2022]**  I will serve as an area chair of [AISTATS 2023](https://aistats.org/aistats2023/).
-- **[June 2022]** I will serve as a student mentor of [the CVPR Academy](https://sites.google.com/view/cvpr-academy/) at [CVPR 2022](http://cvpr2022.thecvf.com/).
-- **[June 2022]** I will serve as a website chair of [BMVC 2022](https://bmvc2022.org/).
-- **[Sept. 2021]** Our paper about [class-incremental learning](https://openreview.net/pdf?id=BfPzZSype5M) is accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
-- **[Mar. 2021]** Our paper about [class-incremental learning](https://arxiv.org/pdf/2010.05063.pdf) is accepted to [CVPR 2021](http://cvpr2021.thecvf.com/).
-- **[July 2020]** Our paper about [few-shot learning](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58517-4_24.pdf) is accepted to [ECCV 2020](https://eccv2020.eu/).
-- **[Feb. 2020]** Our paper about [class-incremental learning](https://arxiv.org/pdf/2002.10211.pdf) is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sept. 2019]** Our paper about [few-shot learning](https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf) is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar. 2019]** Our paper about [few-shot learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf) is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **[Oct. 2022]**  I will serve as a volunteer of [IROS 2022](https://iros2022.org/).
+- **[April. 2022]** Our paper about [absolute camera pose regression](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241) is accepted to [ISPRS 2021](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=Uf9GqRsAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/12/10033-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
