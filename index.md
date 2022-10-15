@@ -24,15 +24,15 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://img.yliu.de/teaser/MTL_PAMI.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">TPAMI</abbr>
+            <abbr class="badge">ISPRS</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/document/9173698">Meta-Transfer Learning through Hard Tasks</a></div>
-      <div class="author">Qianru Sun,* <strong>Yaoyao Liu</strong>,<strong>*</strong> Zhaozheng Chen, Tat-Seng Chua, Bernt Schiele (*=Equal contribution)</div>
-      <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, Volume 44, Number 3, 2022.</em>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241">FeatLoc: Absolute pose regressor for indoor 2D sparse features with simplistic view synthesizing</a></div>
+      <div class="author"> <strong>Thuan B. Bui</strong>, Tuan Dinh Tran, and Joo-Ho Lee</div>
+      <div class="periodical"><em>ISPRS Journal of Photogrammetry and Remote Sensing, Volume 189, Page 50-62, 2022.</em>
       </div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/document/9173698" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://bibliography.yliu.de/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
