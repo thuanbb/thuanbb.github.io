@@ -25,7 +25,7 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src= "https://user-images.githubusercontent.com/115802533/195974730-e88fc6d3-bec2-4e84-91b4-c361f894a5ef.png"
+    <img src= https://user-images.githubusercontent.com/115802533/195974848-dcd289dd-3157-42ff-91cd-f5ddbc299e83.png
  class="teaser img-fluid z-depth-1">
             <abbr class="badge">ISPRS</abbr>
   </div>
