@@ -73,14 +73,14 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src= "https://user-images.githubusercontent.com/115802533/195973302-f53de47d-2710-4481-b9b5-29aec4ca928c.png"
+    <img src= "https://user-images.githubusercontent.com/115802533/195973513-dd12ee40-929d-4416-9ceb-542ce923a950.png"
 class="teaser img-fluid z-depth-1">
             <abbr class="badge">ICEAA</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/8879155">Evolved Design of Microstrip Patch Antenna by Genetic Programming</a></div>
       <div class="author"><strong>Thuan B. Bui</strong>, Linh Ho Manh, Kiem Nguyen Khac, Michele Beccaria, Andrea Massaccesi, Riccardo Zich</div>
-      <div class="periodical"><em>International Conference on Electromagnetics in Advanced Applications (ICEAA)</strong>, 2019.</em>
+      <div class="periodical"><em>International Conference on Electromagnetics in Advanced Applications, 2019.</em>
       </div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/8879155" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
