@@ -75,7 +75,7 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src= "https://user-images.githubusercontent.com/115802533/195973302-f53de47d-2710-4481-b9b5-29aec4ca928c.png"
 class="teaser img-fluid z-depth-1">
-            <abbr class="badge">NeurIPS</abbr>
+            <abbr class="badge">ICEAA</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/8879155">Evolved Design of Microstrip Patch Antenna by Genetic Programming</a></div>
