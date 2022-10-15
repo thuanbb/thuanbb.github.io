@@ -73,19 +73,19 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://img.yliu.de/teaser/RMM.png" class="teaser img-fluid z-depth-1">
+    <img src= "https://user-images.githubusercontent.com/115802533/195973302-f53de47d-2710-4481-b9b5-29aec4ca928c.png"
+class="teaser img-fluid z-depth-1">
             <abbr class="badge">NeurIPS</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://openreview.net/pdf?id=BfPzZSype5M">RMM: Reinforced Memory Management for Class-Incremental Learning</a></div>
-      <div class="author"><strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun</div>
-      <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.</em>
+      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/8879155">Evolved Design of Microstrip Patch Antenna by Genetic Programming</a></div>
+      <div class="author"><strong>Thuan B. Bui</strong>, Linh Ho Manh, Kiem Nguyen Khac, Michele Beccaria, Andrea Massaccesi, Riccardo Zich</div>
+      <div class="periodical"><em>International Conference on Electromagnetics in Advanced Applications (ICEAA)</strong>, 2019.</em>
       </div>
     <div class="links">
-      <a href="https://openreview.net/pdf?id=BfPzZSype5M" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/rmm/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://class-il.mpi-inf.mpg.de/rmm/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://bibliography.yliu.de/NeurIPS21.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/8879155" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/thuanaislab/Genetic-Programing-for-automated-design-microstrip-antenna/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:0eTLXrNVPdIJ:scholar.google.com/&output=citation&scisdr=CgXu1js_ELPhzMFeekw:AAGBfm0AAAAAY0pYYkxbVTb4EhERLdlK23go8UA3uVe8&scisig=AAGBfm0AAAAAY0pYYjNX33T3sl3HwCss00V1xV1sS2_7&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
