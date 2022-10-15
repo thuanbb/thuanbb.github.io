@@ -73,7 +73,7 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src= "https://user-images.githubusercontent.com/115802533/195973513-dd12ee40-929d-4416-9ceb-542ce923a950.png"
+    <img src= "https://user-images.githubusercontent.com/115802533/195973863-cc02e1ee-84fc-4d1b-a26b-437e528b2e81.png"
 class="teaser img-fluid z-depth-1">
             <abbr class="badge">ICEAA</abbr>
   </div>
