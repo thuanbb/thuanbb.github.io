@@ -34,7 +34,7 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
       </div>
     <div class="links">
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/ais-lab/FeatLoc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://bibliography.yliu.de/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
