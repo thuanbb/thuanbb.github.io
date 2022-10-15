@@ -98,7 +98,7 @@ class="teaser img-fluid z-depth-1">
 
 - Japanese government scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)) for doctoral course, 2022-2025
 - Japanese government scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)) for master course, 2020-2022
-
+- Third prize of science research competition for student, [Hanoi University of Science and Technology, Hanoi, Vietnam](https://en.hust.edu.vn), 2019
 ## Services
 
 <h4 style="margin:0 10px 0;">Invited as Conference Reviewers</h4>
