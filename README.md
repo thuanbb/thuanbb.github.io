@@ -1,6 +1,6 @@
 # thuanbb.github.io
 
-For more details, please refer to <https://github.com/yaoyao-liu/minimal-light>.
+For more details of this template, please refer to <https://github.com/yaoyao-liu/minimal-light>.
 
 
 
