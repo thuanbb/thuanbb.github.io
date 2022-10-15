@@ -27,17 +27,17 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src= "https://user-images.githubusercontent.com/115802533/195974848-dcd289dd-3157-42ff-91cd-f5ddbc299e83.png"
  class="teaser img-fluid z-depth-1">
-            <abbr class="badge">ISPRS</abbr>
+            <abbr class="badge">RA-L</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241">FeatLoc: Absolute pose regressor for indoor 2D sparse features with simplistic view synthesizing</a></div>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241">Fast and Lightweight Scene Regressor for Camera Relocalization</a></div>
       <div class="author"> <strong>Thuan B. Bui</strong>, Tuan Dinh Tran, and Joo-Ho Lee</div>
-      <div class="periodical"><em>ISPRS Journal of Photogrammetry and Remote Sensing, Volume 189, Page 50-62, 2022. <strong><i style="color:#e74d3c">Impact Factor 11.774</i></strong>. </em>
+      <div class="periodical"><em> IEEE Robotics and Automation Letters (Under Review) </em>
       </div>
     <div class="links">
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/ais-lab/FeatLoc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:zpOsmLMpH9YJ:scholar.google.com/&output=citation&scisdr=CgXu1js_ELPhzMFXhS0:AAGBfm0AAAAAY0pRnS3qGHi84RKYcHZYqm4N8MvQIrbJ&scisig=AAGBfm0AAAAAY0pRnSddXxXcG4KnRH5y6zdVadW46VVt&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ais-lab/feat2map" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
