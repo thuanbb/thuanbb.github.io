@@ -18,7 +18,7 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
 
 <h2 id="My Research" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=Uf9GqRsAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/12/10033-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
-<div class="publications">
+<div class="My Research">
 <ol class="bibliography">
 <li>
 <div class="pub-row">
