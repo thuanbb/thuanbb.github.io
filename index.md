@@ -104,8 +104,8 @@ class="teaser img-fluid z-depth-1">
 <h4 style="margin:0 10px 0;">Invited as Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://www.aim2022.org/"><autocolor>IEEE/ASME International Conference onAdvanced Intelligent Mechatronics</autocolor></a></li>
-
+  <li><a href="https://www.icra2023.org/"><autocolor>IEEE International Conference on Robotics and Automation (ICRA)</autocolor></a></li>
+  <li><a href="https://www.aim2022.org/"><autocolor>IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Invited as Journal Reviewers</h4>
@@ -115,6 +115,7 @@ class="teaser img-fluid z-depth-1">
 
 </ul>
 ## Contact
+**Email:** thuan.aislab@gmail.com
 **Address:** [Ritsumeikan University, BKC Campus, Graduate School of Information Science and Engineering, Japan](http://www.aislab.org/index.php/en/)
 <br>
 **Office Location:** Creation core 7F; **Phone:** +81-77-561-5931
