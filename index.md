@@ -4,9 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am currently a first-year Ph.D. candidate in Information Science and Engineering at [Ritsumeikan University](https://en.ritsumei.ac.jp/), and am supervised by [Prof. Joo-Ho Lee](https://scholar.google.com/citations?user=71HqkKkAAAAJ&hl=en&oi=ao/). My research interests lie in the interplay between Computer Vision, 3D Geometry, and Deep Learning - with a special focus on building such lighweight visual mapping and localization. From 2020 to 2022, was a research intern at the [National University of Singapore](https://www.comp.nus.edu.sg/), working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Prof. Qianru Sun](https://qianrusun.com/). I obtained my bachelor’s degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm). 
+I am currently a first-year Ph.D. candidate in Information Science and Engineering at [Ritsumeikan University](https://en.ritsumei.ac.jp/), and am supervised by [Prof. Joo-Ho Lee](https://scholar.google.com/citations?user=71HqkKkAAAAJ&hl=en&oi=ao/). My research interests lie in the interplay between **Computer Vision**, **3D Geometry**, and **Deep Learning** - with a particular focus on building **lightweight visual mapping** and **localization systems**. From 2020 to 2022, was a research intern at the [Ritsumeikan University](https://en.ritsumei.ac.jp/), working with [Prof. Joo-Ho Lee](https://www.chuatatseng.com/) and [Prof. Tran Dinh Tuan](https://sites.google.com/view/tuantd/). I obtained my bachelor’s degree from [Hanoi University of Science and Technology](https://en.hust.edu.vn/). 
 
-My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, and **image generation**.
 
 <!--
 <strong style="color:#e74d3c; font-weight:600">I am looking for a postdoc or research scientist position in the US and EU. I would appreciate a ping if you see a job I might fit.</strong>
