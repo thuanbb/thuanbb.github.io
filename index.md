@@ -16,7 +16,7 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
 - **[Oct. 2022]**  I will serve as a volunteer of [IROS 2022](https://iros2022.org/).
 - **[April. 2022]** Our paper about [absolute camera pose regression](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241) is accepted to [ISPRS 2022](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).
 
-<h2 id="publications" style="margin: 2px 0px -15px;">My Research <temp style="font-size:15px;"> 
+<h2 id="publications" style="margin: 2px 0px -15px;">My Research <temp style="font-size:15px;"> </temp></h2>
 
 <div class="publications">
 <ol class="bibliography">
