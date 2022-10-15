@@ -23,7 +23,7 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://img.yliu.de/teaser/MTL_PAMI.png" class="teaser img-fluid z-depth-1">
+    <img src="https://github.com/ais-lab/feat2map/blob/main/demo/chess_test.gif" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ISPRS</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
