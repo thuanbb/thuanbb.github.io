@@ -11,8 +11,8 @@ linkedin:
 twitter: https://twitter.com/thuanth09269912/
 avatar: https://www.linkpicture.com/q/z3800539384748_4fd5b07e3e7201d8d1fbb8b987ef5c73.jpg
 google_analytics: UA-111540567-4
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: 
+favicon_dark: 
 description: Thuan B. Bach is a Ph.D. candidate at Graduate School of Information Science and Engineering. His research lies in Computer Vision, 3D Geometry, and Deep Learning.
 data_protection: 
 
