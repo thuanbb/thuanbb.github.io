@@ -80,7 +80,7 @@ class="teaser img-fluid z-depth-1">
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/8879155">Evolved Design of Microstrip Patch Antenna by Genetic Programming</a></div>
       <div class="author"><strong>Thuan B. Bui</strong>, Linh Ho Manh, Kiem Nguyen Khac, Michele Beccaria, Andrea Massaccesi, Riccardo Zich</div>
-      <div class="periodical"><em>International Conference on Electromagnetics in Advanced Applications, 2019.</em>
+      <div class="periodical"><em>IEEE International Conference on Electromagnetics in Advanced Applications, 2019.</em>
       </div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/8879155" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
