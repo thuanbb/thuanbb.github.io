@@ -96,22 +96,22 @@ class="teaser img-fluid z-depth-1">
 
 ## Awards
 
-- Teaching Assistant, [High-Level Computer Vision](https://www.mpi-inf.mpg.de/hlcv) at [Universität des Saarlandes](https://www.uni-saarland.de/), 2021 and 2022
+- Japanese government scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)) for Doctoral's course, 2022-2025
+- Japanese government scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)) for Master's course, 2020-2022
 
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Invited as Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  
-  <li><a href="https://mmasia2021.uqcloud.net/"><autocolor>ACM MM Asia 2020-2021</autocolor></a></li>
-  <li><a href="http://www.acml-conf.org/2021/"><autocolor>ACML 2021</autocolor></a></li>  
+  <li><a href="https://www.aim2022.org/"><autocolor>IEEE/ASME International Conference onAdvanced Intelligent Mechatronics</autocolor></a></li>
+
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Invited as Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/information-fusion"><autocolor> Information Fusion </autocolor></a></li>
 
 </ul>
 ## Contact
