@@ -23,7 +23,7 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://img.yliu.de/teaser/AANets.png" class="teaser img-fluid z-depth-1">
+    <img src="https://www.linkpicture.com/q/z3800539384748_4fd5b07e3e7201d8d1fbb8b987ef5c73.jpg" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ISPRS</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
