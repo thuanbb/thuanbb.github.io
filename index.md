@@ -96,8 +96,8 @@ class="teaser img-fluid z-depth-1">
 
 ## Awards
 
-- Japanese government scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)) for Doctoral's course, 2022-2025
-- Japanese government scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)) for Master's course, 2020-2022
+- Japanese government scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)) for doctoral course, 2022-2025
+- Japanese government scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)) for master course, 2020-2022
 
 ## Services
 
