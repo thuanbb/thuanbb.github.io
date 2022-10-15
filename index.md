@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a first-year Ph.D. candidate in Information Science and Engineering at [Ritsumeikan University](https://en.ritsumei.ac.jp/), and am supervised by [Prof. Joo-Ho Lee](https://scholar.google.com/citations?user=71HqkKkAAAAJ&hl=en&oi=ao/). My research interests lie in the interplay between **Computer Vision**, **3D Geometry**, and **Deep Learning** - with a particular focus on building **lightweight visual mapping** and **localization systems**. From 2020 to 2022, was a research intern at the [Ritsumeikan University](https://en.ritsumei.ac.jp/), working with [Prof. Joo-Ho Lee](https://www.chuatatseng.com/) and [Prof. Tran Dinh Tuan](https://sites.google.com/view/tuantd/). I obtained my bachelor’s degree from [Hanoi University of Science and Technology](https://en.hust.edu.vn/). 
+I am currently a first-year Ph.D. candidate in Information Science and Engineering at [Ritsumeikan University](https://en.ritsumei.ac.jp/), and am supervised by [Prof. Joo-Ho Lee](https://scholar.google.com/citations?user=71HqkKkAAAAJ&hl=en&oi=ao/). My research interests lie in the interplay between **Computer Vision**, **3D Geometry**, and **Deep Learning** - with a particular focus on building **lightweight visual mapping** and **localization systems**. From 2020 to 2022, was a master  research student at the [Advanced Intelligent System Lab](http://www.aislab.org/index.php/en/), working with [Prof. Joo-Ho Lee](https://www.chuatatseng.com/) and [Prof. Tran Dinh Tuan](https://sites.google.com/view/tuantd/). I obtained my bachelor’s degree from [Hanoi University of Science and Technology](https://en.hust.edu.vn/). 
 
 
 <!--
