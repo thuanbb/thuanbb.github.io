@@ -35,7 +35,7 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
       <div class="periodical"><em> IEEE Robotics and Automation Letters (Under Review) </em>
       </div>
     <div class="links">
-<!--       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+      <a href="https://arxiv.org/pdf/2212.01830.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a> 
       <a href="https://github.com/ais-lab/feat2map" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
 <!--       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
     </div>
