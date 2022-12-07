@@ -1,0 +1,9 @@
+@article{bach2022featloc,
+  title={FeatLoc: Absolute pose regressor for indoor 2D sparse features with simplistic view synthesizing},
+  author={Bach, Thuan Bui and Dinh, Tuan Tran and Lee, Joo-Ho},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={189},
+  pages={50--62},
+  year={2022},
+  publisher={Elsevier}
+}
