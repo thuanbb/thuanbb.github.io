@@ -60,7 +60,7 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
       <div class="periodical"><em>ISPRS Journal of Photogrammetry and Remote Sensing, Volume 189, Page 50-62, 2022. <strong><i style="color:#e74d3c">Impact Factor 11.774</i></strong>. </em>
       </div>
     <div class="links">
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://thuanbb.github.io/archive/bach2022featlocJSPRS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/ais-lab/FeatLoc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://thuanbb.github.io/BibTeX/bach2022featloc.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
