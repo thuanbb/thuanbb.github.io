@@ -62,7 +62,7 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
     <div class="links">
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/ais-lab/FeatLoc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-<!--       <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:zpOsmLMpH9YJ:scholar.google.com/&output=citation&scisdr=CgXu1js_ELPhzMFXhS0:AAGBfm0AAAAAY0pRnS3qGHi84RKYcHZYqm4N8MvQIrbJ&scisig=AAGBfm0AAAAAY0pRnSddXxXcG4KnRH5y6zdVadW46VVt&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <a href="thuanbb.github.io/BibTeX/bach2022featloc.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
