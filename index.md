@@ -85,7 +85,7 @@ class="teaser img-fluid z-depth-1">
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/8879155" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/thuanaislab/Genetic-Programing-for-automated-design-microstrip-antenna/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-<!--       <a href="https://textdoc.co/nKjvAPoJQt6OrlZ8" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <a href="https://thuanbb.github.io/BibTeX/bach2019evolved.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
