@@ -1,0 +1,6 @@
+@article{bui2022fast,
+  title={Fast and Lightweight Scene Regressor for Camera Relocalization},
+  author={Bui, Thuan B and Tran, Dinh-Tuan and Lee, Joo-Ho},
+  journal={arXiv preprint arXiv:2212.01830},
+  year={2022}
+}
