@@ -32,7 +32,7 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2212.01830"> Fast and Lightweight Scene Regressor for Camera Relocalization</a></div>
       <div class="author"> <strong>Thuan B. Bui</strong>, Tuan Dinh Tran, and Joo-Ho Lee</div>
-      <div class="periodical"><em> IEEE Robotics and Automation Letters (Under Review) </em>
+      <div class="periodical"><em> </em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2212.01830.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a> 
