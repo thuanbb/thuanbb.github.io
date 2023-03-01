@@ -113,10 +113,11 @@ class="teaser img-fluid z-depth-1">
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.sciencedirect.com/journal/information-fusion"><autocolor> Information Fusion </autocolor></a></li>
-<ul style="margin:0 0 20px;">
-
-
 </ul>
+<ul style="margin:0 0 20px;">
+  <li><a href="https://www.sciencedirect.com/journal/information-fusion"><autocolor> Information Fusion </autocolor></a></li>
+</ul>
+
 ## Contact
 **Email:** thuan.aislab@gmail.com
 <br>
