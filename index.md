@@ -115,7 +115,7 @@ class="teaser img-fluid z-depth-1">
   <li><a href="https://www.sciencedirect.com/journal/information-fusion"><autocolor> Information Fusion </autocolor></a></li>
 </ul>
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.sciencedirect.com/journal/information-fusion"><autocolor> Information Fusion </autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing"><autocolor> ISPRS Journal of Photogrammetry and Remote Sensing </autocolor></a></li>
 </ul>
 
 ## Contact
