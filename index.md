@@ -96,8 +96,8 @@ class="teaser img-fluid z-depth-1">
 
 ## Awards
 - [Excellent Research Award](https://www.ritsumei.ac.jp/gsise/news/detail/?id=37), GSISE, Ritsumeikan University, 2023.3
-- Japanese Government Scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)) Doctoral Study, 2022-2025
-- Japanese Government Scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)) Master Study, 2020-2022
+- Japanese Government Scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)), Doctoral Study, 2022-2025
+- Japanese Government Scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)), Master Study, 2020-2022
 - Third Prize of Science Research Competition for Student, [HUST, Hanoi, Vietnam](https://en.hust.edu.vn), 2019
 
 ## Services
