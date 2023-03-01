@@ -12,7 +12,7 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
 -->
 
 ## News
-
+- **[Mar. 2023]** I got [Excellent Research Award](https://iros2022.org/) for research of FeatLoc, GSISE, Ritsumeikan University.
 - **[Oct. 2022]**  I will serve as a volunteer of [IROS 2022](https://iros2022.org/).
 - **[April. 2022]** Our paper about [absolute camera pose regression](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241) got accepted to [ISPRS 2022](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).
 
@@ -95,7 +95,7 @@ class="teaser img-fluid z-depth-1">
 </div>
 
 ## Awards
-
+- Excellent Research Award, The Graduate School of Information Science and Engineering, Ritsumeikan University, 2023.3
 - Japanese government scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)) for doctoral course, 2022-2025
 - Japanese government scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)) for master course, 2020-2022
 - Third prize of science research competition for student, [Hanoi University of Science and Technology, Hanoi, Vietnam](https://en.hust.edu.vn), 2019
