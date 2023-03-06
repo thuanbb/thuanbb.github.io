@@ -1,5 +1,5 @@
 ---
-layout: Homepage
+layout: post
 title: Thuan testing
 ---
 
