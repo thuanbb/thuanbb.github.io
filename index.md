@@ -11,7 +11,7 @@ I am currently a first-year Ph.D. candidate in Information Science and Engineeri
 <strong style="color:#e74d3c; font-weight:600">I am looking for a postdoc or research scientist position in the US and EU. I would appreciate a ping if you see a job I might fit.</strong>
 -->
 
-## News
+## News - [Blog](https://thuanbb.github.io/blog)
 - **[Mar. 2023]** We recived [Excellent Research Award](https://www.ritsumei.ac.jp/gsise/news/detail/?id=37) for our work of [FeatLoc](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241), GSISE, RU.
 - **[Oct. 2022]**  I will serve as a volunteer of [IROS 2022](https://iros2022.org/).
 - **[Apr. 2022]** Our paper about [absolute camera pose regression](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241) got accepted to [ISPRS 2022](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).
