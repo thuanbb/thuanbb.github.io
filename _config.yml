@@ -16,17 +16,46 @@ favicon_dark:
 description: Thuan B. Bui is a Ph.D. candidate at Graduate School of Information Science and Engineering, Ritsumeikan University, Japan. His research lies in Computer Vision, 3D Geometry, and Deep Learning.
 data_protection: 
 
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - 2022-12-1-matrix-computation.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
+# Site Settings
+baseurl:             # Base URL must end WITHOUT a slash, default: ""
+permalink:          /:title # Post permalink
+timezone:           Asia/Japan # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to false to disable
+
+# Site Build
+highlighter:        rouge
+#markdown:           redcarpet
+#redcarpet:
+#    extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
+#gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets, jekyll-sitemap]
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+    values:
+      excerpt_separator:       ""
