@@ -38,3 +38,4 @@ Eigen Decomposition is very useful to simplify and reduce matrix product computa
 ### Application 
 
 ## Reference
+[1] [Diagonalization](https://textbooks.math.gatech.edu/ila/diagonalization.html)
