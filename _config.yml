@@ -24,7 +24,6 @@ exclude:
   - run_jekyll.sh
   - minimal-light.gemspec
   - CNAME
-
 # Site Build
 highlighter:        rouge
 #markdown:           redcarpet
@@ -36,6 +35,10 @@ kramdown:
 sass:
     style:          :compressed
 
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
+#gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets, jekyll-sitemap]
 
 defaults:
   -
