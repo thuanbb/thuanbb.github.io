@@ -8,6 +8,8 @@ updated: 2023-03-07 22:00
 * TOC
 {:toc}
 
-## Eigendecomposition
+## Eigen Decomposition
 
-$$ A \in \mathbb{R}^{n\timesn}$$
+$$ \mathbf{A} \in \mathbb{R}^{n\timesn}$$, $$\mathbf{A}$$ is diagonalgable, then 
+
+$$ A= $$
