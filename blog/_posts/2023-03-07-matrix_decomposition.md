@@ -34,4 +34,6 @@ If $$\mathbf{A}$$ is symmetric ($$\mathbf{A}=\mathbf{A}^{T}$$), then we can alwa
 ### Application
 Eigen Decomposition is very useful to simplify and reduce matrix product computation with $$\mathbf{A}$$. 
 
+**Problem 1.**  Let $$\mathbf{A} \in \mathbb{R}^{n \times n}$$ be a diagonalizable matrix with eigenvalues $$ \{\lambda_{i}\}^{n}_{i=0} $$ 
+	+ Compute $$\mathbf{A}^{k}$$
 
