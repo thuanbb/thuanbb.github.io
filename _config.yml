@@ -18,7 +18,7 @@ data_protection:
 
 # Site Settings
 baseurl: https://thuanbb.github.io/            # Base URL must end WITHOUT a slash, default: ""
-author_gravatar: avatar.jepg
+author_gravatar: avatar.jpeg
 permalink:          /:title # Post permalink
 timezone:           Asia/Japan # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to false to disable
