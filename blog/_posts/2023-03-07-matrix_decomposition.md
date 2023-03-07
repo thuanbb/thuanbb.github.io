@@ -33,3 +33,8 @@ Eigen Decomposition is very useful to simplify and reduce matrix product computa
 **Problem 1.**  Let $$\mathbf{A} \in \mathbb{R}^{n \times n}$$ be a diagonalizable matrix with eigenvalues $$ \{\lambda_{i}\}^{n}_{i=0} $$ \\
 	* Compute $$\mathbf{A}^{k}$$ for a fixed $$k \in \mathbb{Z}_{+}$$
 
+## Singular Value Decomposition 
+
+### Application 
+
+## Reference
