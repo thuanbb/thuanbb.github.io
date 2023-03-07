@@ -28,7 +28,7 @@ $$ \{\lambda_{i}\}^{n}_{i=0} $$ are eigenvalues with corresponding eigenvectors 
 If $$\mathbf{A}$$ is symmetric ($$\mathbf{A}=\mathbf{A}^{T}$$), then we can always write $$ \mathbf{A}= \mathbf{Q}\mathbf{\Lambda}\mathbf{Q}^{-1}$$, 
 
 ### Application
-Eigen Decomposition is very useful to simplify and reduce matrix product computation with $$\mathbf{A}$$. 
+Eigen Decomposition is very useful to simplify and reduce matrix product computation. 
 
 **Problem 1.**  Let $$\mathbf{A} \in \mathbb{R}^{n \times n}$$ be a diagonalizable matrix with eigenvalues $$ \{\lambda_{i}\}^{n}_{i=0} $$ \\
 	* Compute $$\mathbf{A}^{k}$$ for a fixed $$k \in \mathbb{Z}_{+}$$
