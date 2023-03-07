@@ -22,7 +22,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - CONTRIBUTING.md
+  - 2022-12-1-matrix-computation.md
   - README.md
   - LICENSE.md
   - COPYING.md
