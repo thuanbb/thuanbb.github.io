@@ -19,9 +19,9 @@ $$ \mathbf{A}= \mathbf{Q}\mathbf{\Lambda}\mathbf{Q}^{-1}$$, $$ \mathbf{Q} = \beg
 \end{bmatrix} $$, $$ \mathbf{\Lambda} = \begin{bmatrix}
 \lambda_{1} & 0 & 0  & 0\\
 0 & \lambda_{2}  & ... & 0\\ 
-0| 0 | 0 ... & \lambda_{n}  |
+0 & 0 & ... &  \lambda_{n}
 \end{bmatrix} $$ 
 
-$$ \{\lambda_{i}\}^{n}_{i=0} are eigen values with corresponding eigen vectors \{\mathbf{v}_{i}\}^{n}_{i}$$
+$$ \{\lambda_{i}\}^{n}_{i=0} $$ are eigen values with corresponding eigen vectors $$\{\mathbf{v}_{i}\}^{n}_{i}$$
 
 This means $$ \mathbf{A}\mathbf{v}_{i} = \lambda_{i}\mathbf{v}_{i} $$ (eigen values equation) 
