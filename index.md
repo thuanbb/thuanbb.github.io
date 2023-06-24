@@ -123,4 +123,5 @@ class="teaser img-fluid z-depth-1">
 <br>
 **Office Location:** Creation core 7F; **Phone:** +81-77-561-5931
 
-<a href="https://clustrmaps.com/site/1bv6s" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=3xOlZcuTskK-svFaMuoNTOtYOjACkHyVle4fFwUU7Gc&cl=ffffff"></a>
+<a href="https://clustrmaps.com/site/1bv6s" title="Visit tracker"></a>
+<!-- <a href="https://clustrmaps.com/site/1bv6s" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=3xOlZcuTskK-svFaMuoNTOtYOjACkHyVle4fFwUU7Gc&cl=ffffff"></a> -->
