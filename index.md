@@ -38,7 +38,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
     <div class="links">
       <a href="https://arxiv.org/pdf/2307.15250.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a> 
       <a href="https://github.com/ais-lab/feat2map" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://thpjp.github.io/d2s/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <a href="https://thpjp.github.io/d2s/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
     </div>
   </div>
 </div>
