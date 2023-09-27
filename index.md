@@ -12,6 +12,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
 -->
 
 ## News - [Blog](https://thuanbb.github.io/blog)
+- **[Aug. 2023]** Our new work on scene coordinate regression is available on Arxiv, namely [D2S pipeline](https://thpjp.github.io/d2s/).
 - **[Mar. 2023]** We recived [Excellent Research Award](https://www.ritsumei.ac.jp/gsise/news/detail/?id=37) for our work of [FeatLoc](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241), GSISE, RU.
 - **[Oct. 2022]**  I will serve as a volunteer of [IROS 2022](https://iros2022.org/).
 - **[Apr. 2022]** Our paper about [absolute camera pose regression](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241) got accepted to [ISPRS 2022](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).
