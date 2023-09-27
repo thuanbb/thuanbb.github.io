@@ -25,7 +25,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src= "https://user-images.githubusercontent.com/115802533/195974848-dcd289dd-3157-42ff-91cd-f5ddbc299e83.png"
+    <img src= "https://thuanbb.github.io/assets/img/d2s.jpg"
  class="teaser img-fluid z-depth-1">
             <abbr class="badge">Arxiv</abbr>
   </div>
