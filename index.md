@@ -21,6 +21,28 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
 <div class="publications">
 <ol class="bibliography">
 
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src= "https://user-images.githubusercontent.com/115802533/195974848-dcd289dd-3157-42ff-91cd-f5ddbc299e83.png"
+ class="teaser img-fluid z-depth-1">
+            <abbr class="badge">Arxiv</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2212.01830"> D2S: Representing local descriptors and global scene coordinates for camera relocalization</a></div>
+      <div class="author"> <strong>Thuan B. Bui</strong>, Tuan Dinh Tran, and Joo-Ho Lee</div>
+      <div class="periodical"><em> </em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2307.15250.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a> 
+      <a href="https://github.com/ais-lab/feat2map" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://thpjp.github.io/d2s/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+    </div>
+  </div>
+</div>
+</li>
+
   
 <li>
 <div class="pub-row">
