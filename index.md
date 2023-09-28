@@ -31,7 +31,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
             <abbr class="badge">Arxiv</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/abs/2212.01830"> D2S: Representing local descriptors and global scene coordinates for camera relocalization</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2307.15250"> D2S: Representing local descriptors and global scene coordinates for camera relocalization</a></div>
       <div class="author"> <strong>Thuan B. Bui</strong>, Tuan Dinh Tran, and Joo-Ho Lee</div>
       <div class="periodical"><em> </em>
       </div>
