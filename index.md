@@ -10,11 +10,11 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
 <!--
 <strong style="color:#e74d3c; font-weight:600">I am looking for a postdoc or research scientist position in the US and EU. I would appreciate a ping if you see a job I might fit.</strong>
 -->
-
-## News 
 <!--
 - [Blog](https://thuanbb.github.io/blog)
 -->
+
+## News 
 - **[Jan. 2024]** I received SICE international young author award for our work of [feat2map](https://arxiv.org/abs/2212.01830).
 - **[Aug. 2023]** [D2S](https://thpjp.github.io/d2s/), our new work on sparse coordinate regression is available.
 - **[Mar. 2023]** We recived [Excellent Research Award](https://www.ritsumei.ac.jp/gsise/news/detail/?id=37) for our work of [FeatLoc](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241), GSISE, RU.
