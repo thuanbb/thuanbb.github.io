@@ -15,7 +15,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
 -->
 
 ## News 
-- **[Jan. 2024]** I received SICE international young author award for our work of [feat2map](https://arxiv.org/abs/2212.01830).
+- **[Jan. 2024]** I received SICE International Young Author Award for our work of [feat2map](https://arxiv.org/abs/2212.01830).
 - **[Aug. 2023]** [D2S](https://thpjp.github.io/d2s/), our new work on sparse coordinate regression is available.
 - **[Mar. 2023]** We recived [Excellent Research Award](https://www.ritsumei.ac.jp/gsise/news/detail/?id=37) for our work of [FeatLoc](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241), GSISE, RU.
 - **[Oct. 2022]**  I will serve as a volunteer of [IROS 2022](https://iros2022.org/).
