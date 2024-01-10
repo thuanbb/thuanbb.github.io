@@ -12,6 +12,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
 -->
 
 ## News - [Blog](https://thuanbb.github.io/blog)
+- **[Jan. 2024]** I received SICE international young author award for our work of [feat2map](https://arxiv.org/abs/2212.01830).
 - **[Aug. 2023]** [D2S](https://thpjp.github.io/d2s/), our new work on sparse coordinate regression is available.
 - **[Mar. 2023]** We recived [Excellent Research Award](https://www.ritsumei.ac.jp/gsise/news/detail/?id=37) for our work of [FeatLoc](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241), GSISE, RU.
 - **[Oct. 2022]**  I will serve as a volunteer of [IROS 2022](https://iros2022.org/).
@@ -50,7 +51,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src= "https://user-images.githubusercontent.com/115802533/195974848-dcd289dd-3157-42ff-91cd-f5ddbc299e83.png"
  class="teaser img-fluid z-depth-1">
-            <abbr class="badge">Arxiv</abbr>
+            <abbr class="badge">SII</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2212.01830"> Fast and Lightweight Scene Regressor for Camera Relocalization</a></div>
