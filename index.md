@@ -62,7 +62,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
       <div class="periodical"><em> 2024 IEEE/SICE International Symposium on System Integration (SII). <strong><i style="color:#e74d3c">Young Author Award</i></strong>.</em>
       </div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2212.01830.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a> 
+      <a href="https://arxiv.org/pdf/2212.01830.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> 
       <a href="https://github.com/ais-lab/feat2map" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://thuanbb.github.io/BibTeX/bui2022fast.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
@@ -122,7 +122,7 @@ class="teaser img-fluid z-depth-1">
 </div>
 
 ## Awards
-- [SICE International Young Author Award](https://sice-si.org/sii2024/page/award.html) (100,000JPY), SII2024.1
+- [SICE International Young Author Award](https://sice-si.org/sii2024/page/award.html) (100,000JPY), SII2024.
 - [Excellent Research Award](https://www.ritsumei.ac.jp/gsise/news/detail/?id=37), GSISE, Ritsumeikan University, 2023.3
 - Japanese Government Scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)), Doctoral Study, 2022-2025
 - Japanese Government Scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)), Master Study, 2020-2022
