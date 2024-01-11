@@ -84,7 +84,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241">FeatLoc: Absolute pose regressor for indoor 2D sparse features with simplistic view synthesizing</a></div>
       <div class="author"> <strong>Thuan B. Bui</strong>, Tuan Dinh Tran, and Joo-Ho Lee</div>
-      <div class="periodical"><em>ISPRS Journal of Photogrammetry and Remote Sensing, Volume 189, Page 50-62, 2022. <strong><i style="color:#e74d3c">Impact Factor 11.7, Outstanding Student Paper Award, GSISE-RU</i></strong>. </em>
+      <div class="periodical"><em>ISPRS Journal of Photogrammetry and Remote Sensing, Volume 189, Page 50-62, 2022. <strong><i style="color:#e74d3c">Impact Factor 11.7, Outstanding Student Paper Award GSISE-RU</i></strong>. </em>
       </div>
     <div class="links">
       <a href="https://thuanbb.github.io/archive/bach2022featlocJSPRS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
