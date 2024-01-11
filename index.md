@@ -122,7 +122,7 @@ class="teaser img-fluid z-depth-1">
 </div>
 
 ## Awards
-- [SICE International Young Author Award](https://sice-si.org/sii2024/page/award.html) (100,000JPY), SII2024.
+- [SICE International Young Author Award](https://sice-si.org/sii2024/page/award.html) (100,000 JPY), SII2024.
 - [Outstanding Student Paper Award](https://www.ritsumei.ac.jp/gsise/news/detail/?id=37), GSISE, Ritsumeikan University, 2023.3
 - Japanese Government Scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)), Doctoral Study, 2022-2025
 - Japanese Government Scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)), Master Study, 2020-2022
