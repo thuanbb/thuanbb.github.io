@@ -17,7 +17,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
 ## News 
 - **[Jan. 2024]** I received SICE International Young Author Award for our work of [feat2map](https://arxiv.org/abs/2212.01830).
 - **[Aug. 2023]** [D2S](https://thpjp.github.io/d2s/), our new work on sparse coordinate regression is available.
-- **[Mar. 2023]** We recived [Excellent Research Award](https://www.ritsumei.ac.jp/gsise/news/detail/?id=37) for our work of [FeatLoc](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241), GSISE, RU.
+- **[Mar. 2023]** I recived [Outstanding Student Paper Award](https://www.ritsumei.ac.jp/gsise/news/detail/?id=37) for our work of [FeatLoc](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241), GSISE, RU.
 - **[Oct. 2022]**  I will serve as a volunteer of [IROS 2022](https://iros2022.org/).
 - **[Apr. 2022]** Our paper about [absolute camera pose regression](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241) got accepted to [ISPRS 2022](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).
 
@@ -84,7 +84,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241">FeatLoc: Absolute pose regressor for indoor 2D sparse features with simplistic view synthesizing</a></div>
       <div class="author"> <strong>Thuan B. Bui</strong>, Tuan Dinh Tran, and Joo-Ho Lee</div>
-      <div class="periodical"><em>ISPRS Journal of Photogrammetry and Remote Sensing, Volume 189, Page 50-62, 2022. <strong><i style="color:#e74d3c">Impact Factor 11.7, GSISE-RU Award</i></strong>. </em>
+      <div class="periodical"><em>ISPRS Journal of Photogrammetry and Remote Sensing, Volume 189, Page 50-62, 2022. <strong><i style="color:#e74d3c">Impact Factor 11.7, Outstanding Student Paper Award, GSISE-RU</i></strong>. </em>
       </div>
     <div class="links">
       <a href="https://thuanbb.github.io/archive/bach2022featlocJSPRS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -123,7 +123,7 @@ class="teaser img-fluid z-depth-1">
 
 ## Awards
 - [SICE International Young Author Award](https://sice-si.org/sii2024/page/award.html) (100,000JPY), SII2024.
-- [Excellent Research Award](https://www.ritsumei.ac.jp/gsise/news/detail/?id=37), GSISE, Ritsumeikan University, 2023.3
+- [Outstanding Student Paper Award](https://www.ritsumei.ac.jp/gsise/news/detail/?id=37), GSISE, Ritsumeikan University, 2023.3
 - Japanese Government Scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)), Doctoral Study, 2022-2025
 - Japanese Government Scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)), Master Study, 2020-2022
 - Third Prize of Science Research Competition for Student, [HUST](https://en.hust.edu.vn), Hanoi, Vietnam, 2019.5
