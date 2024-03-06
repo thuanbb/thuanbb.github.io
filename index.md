@@ -15,6 +15,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
 -->
 
 ## News 
+- **[Feb. 2024]** [PL2Map](https://thpjp.github.io/pl2map/), our new work on sparse 3D points & lines regression is available.
 - **[Jan. 2024]** I received SICE International Young Author Award for our work of [feat2map](https://arxiv.org/abs/2212.01830).
 - **[Aug. 2023]** [D2S](https://thpjp.github.io/d2s/), our new work on sparse coordinate regression is available.
 - **[Mar. 2023]** I recived [Exellent Research Award](https://www.ritsumei.ac.jp/gsise/news/detail/?id=37) for our work of [FeatLoc](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241), GSISE, RU.
