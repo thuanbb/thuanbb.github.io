@@ -43,7 +43,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
       <a href="https://arxiv.org/abs/2402.18011" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a> 
       <a href="https://github.com/ais-lab/pl2map/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://thpjp.github.io/pl2map/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://www.linkedin.com/posts/huy-ho%C3%A0ng-b%C3%B9i-99471516a_pl2map-3dmapping-camerarelocalization-ugcPost-7168851053021540352-Gm62?utm_source=share&utm_medium=member_desktop" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Linkedin</a> 
+      <a href="https://www.linkedin.com/posts/huy-ho%C3%A0ng-b%C3%B9i-99471516a_pl2map-3dmapping-camerarelocalization-ugcPost-7168851053021540352-Gm62?utm_source=share&utm_medium=member_desktop" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">LinkedIn</a> 
     </div>
   </div>
 </div>
@@ -144,7 +144,9 @@ class="teaser img-fluid z-depth-1">
 </ol>
 </div>
 
-## Awards
+## Honors and Awards
+- Research Encouragement Award, GSISE, Ritsumeikan University, 2024.2
+- Research Grant For Doctoral Student, 2024.1
 - [SICE International Young Author Award](https://sice-si.org/sii2024/page/award.html) (JPY 100,000), SII2024.
 - [Outstanding Student Paper Award](https://www.ritsumei.ac.jp/gsise/news/detail/?id=37), GSISE, Ritsumeikan University, 2023.3
 - Japanese Government Scholarship ([Monbukagakusho: MEXT](https://www.mext.go.jp/en/index.htm)), Doctoral Study, 2022-2025
