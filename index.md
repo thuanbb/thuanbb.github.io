@@ -30,6 +30,29 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src= "https://thuanbb.github.io/assets/img/pl2map.jpg"
+ class="teaser img-fluid z-depth-1">
+            <abbr class="badge">Arxiv</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2307.15250"> Representing 3D sparse map points and lines for camera relocalization</a></div>
+      <div class="author"> <strong>Thuan B. Bui</strong>, Huy Hoang Bui, Tuan Dinh Tran, and Joo-Ho Lee</div>
+      <div class="periodical"><em> </em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2402.18011" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a> 
+      <a href="https://github.com/ais-lab/pl2map/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://thpjp.github.io/pl2map/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://www.linkedin.com/posts/huy-ho%C3%A0ng-b%C3%B9i-99471516a_pl2map-3dmapping-camerarelocalization-ugcPost-7168851053021540352-Gm62?utm_source=share&utm_medium=member_desktop" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Linkedin</a> 
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src= "https://thuanbb.github.io/assets/img/d2s.jpg"
  class="teaser img-fluid z-depth-1">
             <abbr class="badge">Arxiv</abbr>
