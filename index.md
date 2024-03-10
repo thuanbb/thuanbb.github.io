@@ -36,7 +36,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
             <abbr class="badge">Arxiv</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/abs/2307.15250"> Representing 3D sparse map points and lines for camera relocalization</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2402.18011"> Representing 3D sparse map points and lines for camera relocalization</a></div>
       <div class="author"> <strong>Thuan B. Bui</strong>, Hoang H. Bui, Tuan Dinh Tran, and Joo-Ho Lee</div>
       <div class="periodical"><em> </em>
       </div>
