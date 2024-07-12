@@ -59,7 +59,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
             <abbr class="badge">IROS24</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/abs/2402.18011"> Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression </a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2403.10297"> Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression </a></div>
       <div class="author"> Hoang H. Bui, <strong>Thuan B. Bui</strong>, Tuan Dinh Tran, and Joo-Ho Lee</div>
       <div class="periodical"><em> IEEE/RSJ International Conference on Intelligent Robots and Systems </em>
       </div>
