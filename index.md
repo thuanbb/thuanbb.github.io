@@ -15,6 +15,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
 -->
 
 ## News 
+- **[July. 2024]** Two papers are accepted by IROS 2024.
 - **[Feb. 2024]** [PL2Map](https://thpjp.github.io/pl2map/), our new work on sparse 3D points & lines regression is available.
 - **[Jan. 2024]** I received SICE International Young Author Award for our work of [feat2map](https://arxiv.org/abs/2212.01830).
 - **[Aug. 2023]** [D2S](https://thpjp.github.io/d2s/), our new work on sparse coordinate regression is available.
@@ -33,18 +34,38 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src= "https://thuanbb.github.io/assets/img/pl2map.jpg"
  class="teaser img-fluid z-depth-1">
-            <abbr class="badge">Arxiv</abbr>
+            <abbr class="badge">IROS24</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2402.18011"> Representing 3D sparse map points and lines for camera relocalization</a></div>
       <div class="author"> <strong>Thuan B. Bui</strong>, Hoang H. Bui, Tuan Dinh Tran, and Joo-Ho Lee</div>
-      <div class="periodical"><em> </em>
+      <div class="periodical"><em> IEEE/RSJ International Conference on Intelligent Robots and Systems </em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/abs/2402.18011" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a> 
       <a href="https://github.com/ais-lab/pl2map/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://thpjp.github.io/pl2map/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://www.linkedin.com/posts/huy-ho%C3%A0ng-b%C3%B9i-99471516a_pl2map-3dmapping-camerarelocalization-ugcPost-7168851053021540352-Gm62?utm_source=share&utm_medium=member_desktop" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">LinkedIn</a> 
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src= "https://thuanbb.github.io/assets/img/hoang.png"
+ class="teaser img-fluid z-depth-1">
+            <abbr class="badge">IROS24</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2402.18011"> Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression </a></div>
+      <div class="author"> Hoang H. Bui, <strong>Thuan B. Bui</strong>, Tuan Dinh Tran, and Joo-Ho Lee</div>
+      <div class="periodical"><em> IEEE/RSJ International Conference on Intelligent Robots and Systems </em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2403.10297" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a> 
+      <a href="https://github.com/ais-lab/DescriptorSynthesis4Feat2Map" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> 
     </div>
   </div>
 </div>
@@ -146,7 +167,8 @@ class="teaser img-fluid z-depth-1">
 </div>
 
 ## Honors and Awards
-- Research Encouragement Award, GSISE, Ritsumeikan University, 2024.2
+- Research Grant For Doctoral Student (JPY 500,000), 2024.7
+- Student Paper Award, GSISE, Ritsumeikan University, 2024.2
 - [Research Grant For Doctoral Student](https://thuanbb.github.io/archive/Certificate_202401BuiBachThuan.pdf) (JPY 300,000), 2024.1
 - [SICE International Young Author Award](https://sice-si.org/sii2024/page/award.html) (JPY 100,000), SII2024.
 - [Outstanding Student Paper Award](https://www.ritsumei.ac.jp/gsise/news/detail/?id=37), GSISE, Ritsumeikan University, 2023.3
