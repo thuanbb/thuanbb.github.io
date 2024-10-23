@@ -84,7 +84,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2307.15250"> D2S: Representing local descriptors and global scene coordinates for camera relocalization</a></div>
       <div class="author"> <strong>Bach T. Bui</strong>, Huy H. Bui, Tuan Dinh Tran, and Joo-Ho Lee</div>
-      <div class="periodical"><em> </em>
+      <div class="periodical"><em> IEEE Robotics and Automation Letters </em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2307.15250.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a> 
