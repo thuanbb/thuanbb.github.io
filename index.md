@@ -39,7 +39,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2402.18011"> Representing 3D sparse map points and lines for camera relocalization</a></div>
-      <div class="author"> <strong>Bach-Thuan Bui</strong>, Huy-Hoang Bui, Tuan Dinh Tran, and Joo-Ho Lee</div>
+      <div class="author"> <strong>Bach T. Bui</strong>, Huy H. Bui, Tuan Dinh Tran, and Joo-Ho Lee</div>
       <div class="periodical"><em> IEEE/RSJ International Conference on Intelligent Robots and Systems </em>
       </div>
     <div class="links">
@@ -61,7 +61,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2403.10297"> Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression </a></div>
-      <div class="author"> Huy-Hoang Bui, <strong>Bach-Thuan Bui</strong>, Tuan Dinh Tran, and Joo-Ho Lee</div>
+      <div class="author"> Huy H. Bui, <strong>Bach T. Bui</strong>, Tuan Dinh Tran, and Joo-Ho Lee</div>
       <div class="periodical"><em> IEEE/RSJ International Conference on Intelligent Robots and Systems </em>
       </div>
     <div class="links">
@@ -83,7 +83,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2307.15250"> D2S: Representing local descriptors and global scene coordinates for camera relocalization</a></div>
-      <div class="author"> <strong>Bach-Thuan Bui</strong>, Huy-Hoang Bui, Tuan Dinh Tran, and Joo-Ho Lee</div>
+      <div class="author"> <strong>Bach T. Bui</strong>, Huy H. Bui, Tuan Dinh Tran, and Joo-Ho Lee</div>
       <div class="periodical"><em> </em>
       </div>
     <div class="links">
@@ -105,7 +105,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2212.01830"> Fast and Lightweight Scene Regressor for Camera Relocalization</a></div>
-      <div class="author"> <strong>Bach-Thuan Bui</strong>, Tuan Dinh Tran, and Joo-Ho Lee</div>
+      <div class="author"> <strong>Bach T. Bui</strong>, Tuan Dinh Tran, and Joo-Ho Lee</div>
       <div class="periodical"><em> 2024 IEEE/SICE International Symposium on System Integration (SII). <strong><i style="color:#e74d3c">Young Author Award</i></strong>.</em>
       </div>
     <div class="links">
@@ -130,7 +130,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241">FeatLoc: Absolute pose regressor for indoor 2D sparse features with simplistic view synthesizing</a></div>
-      <div class="author"> <strong>Bach-Thuan Bui</strong>, Tuan Dinh Tran, and Joo-Ho Lee</div>
+      <div class="author"> <strong>Bach T. Bui</strong>, Tuan Dinh Tran, and Joo-Ho Lee</div>
       <div class="periodical"><em>ISPRS Journal of Photogrammetry and Remote Sensing, Volume 189, Page 50-62, 2022. <strong><i style="color:#e74d3c">Impact Factor 11.7, Outstanding Student Paper Award GSISE-RU</i></strong>. </em>
       </div>
     <div class="links">
@@ -153,7 +153,7 @@ class="teaser img-fluid z-depth-1">
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/8879155">Evolved Design of Microstrip Patch Antenna by Genetic Programming</a></div>
-      <div class="author"><strong>Bach-Thuan Bui</strong>, Linh Ho Manh, Kiem Nguyen Khac, Michele Beccaria, Andrea Massaccesi, Riccardo Zich</div>
+      <div class="author"><strong>Bach T. Bui</strong>, Linh Ho Manh, Kiem Nguyen Khac, Michele Beccaria, Andrea Massaccesi, Riccardo Zich</div>
       <div class="periodical"><em>IEEE International Conference on Electromagnetics in Advanced Applications, 2019.</em>
       </div>
     <div class="links">
