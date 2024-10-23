@@ -180,24 +180,23 @@ class="teaser img-fluid z-depth-1">
 
 ## Services
 
-<h4 style="margin:0 10px 0;">Invited as Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://iros2024-abudhabi.org/"><autocolor>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</autocolor></a></li>
-  <li><a href="https://www.icra2023.org/"><autocolor>IEEE International Conference on Robotics and Automation (ICRA)</autocolor></a></li>
-  <li><a href="https://www.aim2022.org/"><autocolor>IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)</autocolor></a></li>
+  <li><a href="https://iros2024-abudhabi.org/"><autocolor>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024</autocolor></a></li>
+  <li><a href="https://www.icra2023.org/"><autocolor>IEEE International Conference on Robotics and Automation (ICRA), 2024</autocolor></a></li>
+  <li><a href="https://www.aim2022.org/"><autocolor>IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2022</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Invited as Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.sciencedirect.com/journal/information-fusion"><autocolor> Information Fusion </autocolor></a></li>
-  <li><a href="https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing"><autocolor> ISPRS Journal of Photogrammetry and Remote Sensing </autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing"><autocolor> ISPRS Journal of Photogrammetry and Remote Sensing, 2023 </autocolor></a></li>
 </ul>
 
 ## Contact
 **Email:** thuan.aislab@gmail.com
 <br>
-**Address:** [Ritsumeikan University, BKC Campus, Graduate School of Information Science and Engineering, Japan](http://www.aislab.org/index.php/en/)
+**Address:** [Ritsumeikan University, OIC Campus, Graduate School of Information Science and Engineering, Japan](http://www.aislab.org/index.php/en/)
 <br>
-**Office Location:** Creation core 7F; **Phone:** +81-77-561-5931
+**Phone:** +81-80-4864-3654
