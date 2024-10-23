@@ -15,7 +15,8 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
 -->
 
 ## News 
-- **[July. 2024]** Two papers accepted by IROS 2024.
+- **[Oct. 2024]** [D2S](https://thpjp.github.io/d2s/) accepted by RAL 2024.
+- **[Jul. 2024]** Two papers accepted by IROS 2024.
 - **[Feb. 2024]** [PL2Map](https://thpjp.github.io/pl2map/), our new work on sparse 3D points & lines regression is available.
 - **[Jan. 2024]** I received SICE International Young Author Award for our work of [feat2map](https://arxiv.org/abs/2212.01830).
 - **[Aug. 2023]** [D2S](https://thpjp.github.io/d2s/), our new work on sparse coordinate regression is available.
@@ -66,6 +67,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
     <div class="links">
       <a href="https://arxiv.org/abs/2403.10297" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a> 
       <a href="https://github.com/ais-lab/DescriptorSynthesis4Feat2Map" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> 
+      <a href="https://austrianoakvn.github.io/nerfvloc/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
     </div>
   </div>
 </div>
@@ -77,7 +79,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src= "https://thuanbb.github.io/assets/img/d2s.jpg"
  class="teaser img-fluid z-depth-1">
-            <abbr class="badge">Arxiv</abbr>
+            <abbr class="badge">RA-L</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2307.15250"> D2S: Representing local descriptors and global scene coordinates for camera relocalization</a></div>
