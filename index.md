@@ -6,8 +6,9 @@ layout: homepage
 
 I am currently a Ph.D. candidate in Information Science and Engineering at [Ritsumeikan University](https://en.ritsumei.ac.jp/), and am supervised by [Prof. Joo-Ho Lee](https://scholar.google.com/citations?user=71HqkKkAAAAJ&hl=en&oi=ao/). My research interests lie in the interplay between **Computer Vision**, **3D Geometry**, and **Deep Learning** - with a particular focus on building **lightweight visual mapping** and **localization systems**. From 2020 to 2022, I was a master  research student at the [Advanced Intelligent System Lab](http://www.aislab.org/index.php/en/), working with [Prof. Joo-Ho Lee](https://scholar.google.com/citations?user=71HqkKkAAAAJ&hl=en&oi=ao/) and [Prof. Tran Dinh Tuan](https://sites.google.com/view/tuantd/). I obtained my bachelor’s degree from [Hanoi University of Science and Technology](https://en.hust.edu.vn/). My undergraduate research advisors are [Dr. Linh Ho Manh](https://scholar.google.com/citations?user=idrSzjoAAAAJ&hl=en&oi=ao/) and [Dr. Son Xuat Ta](https://scholar.google.com/citations?user=UosVsU0AAAAJ&hl=en&oi=ao/).
 
-
+<!--
 <strong style="color:#e74d3c; font-weight:600">I am looking for a research scientist or postdoc position (start from Sep. 2025). I would appreciate a ping if you see a job I might fit.</strong>
+-->
 
 <!--
 - [Blog](https://thuanbb.github.io/blog)
