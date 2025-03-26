@@ -15,6 +15,8 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
 -->
 
 ## News 
+- **[Feb. 2025]** [D2S](https://thpjp.github.io/d2s/) additionally accepted by [ICRA 2025](https://2025.ieee-icra.org).
+- **[Jan. 2025]** I'll be a short-term visiting scholar at [TUM](https://www.ce.cit.tum.de/en/lsr/home/).
 - **[Oct. 2024]** [D2S](https://thpjp.github.io/d2s/) accepted by [RAL](https://www.ieee-ras.org/publications/ra-l) 2024.
 - **[Jul. 2024]** Two papers accepted by IROS 2024.
 - **[Feb. 2024]** [PL2Map](https://thpjp.github.io/pl2map/), our new work on sparse 3D points & lines regression is available.
