@@ -15,7 +15,7 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
 -->
 
 ## News 
-- **[Mar. 2025]** [ForestSplat](https://www.mdpi.com/2072-4292/17/6/993), our exciting project at [Coolant](https://coolant.earth), has been accepted by [Remote Sensing](https://www.mdpi.com/journal/remotesensing).
+- **[Mar. 2025]** [ForestSplat](https://www.mdpi.com/2072-4292/17/6/993), our exciting project at [Coolant](https://coolant.earth), accepted by [Remote Sensing](https://www.mdpi.com/journal/remotesensing).
 - **[Feb. 2025]** [D2S](https://thpjp.github.io/d2s/) additionally accepted to present at [ICRA 2025](https://2025.ieee-icra.org).
 - **[Jan. 2025]** I'll be a short-term visiting scholar at [Technical University of Munich](https://www.ce.cit.tum.de/en/lsr/home/).
 - **[Oct. 2024]** [D2S](https://thpjp.github.io/d2s/) accepted by [RAL](https://www.ieee-ras.org/publications/ra-l) 2024.
@@ -171,6 +171,7 @@ class="teaser img-fluid z-depth-1">
 </div>
 
 ## Honors and Awards
+- [Outstanding Student Paper Award](https://www.ritsumei.ac.jp/gsise/news/detail/?id=54), GSISE, Ritsumeikan University, 2025.3
 - Research Grant For Doctoral Student (JPY 500,000), 2024.7
 - Student Paper Award, GSISE, Ritsumeikan University, 2024.2
 - [Research Grant For Doctoral Student](https://thuanbb.github.io/archive/Certificate_202401BuiBachThuan.pdf) (JPY 300,000), 2024.1
