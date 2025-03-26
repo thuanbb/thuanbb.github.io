@@ -15,13 +15,13 @@ I am currently a Ph.D. candidate in Information Science and Engineering at [Rits
 -->
 
 ## News 
+- **[Mar. 2025]** [ForestSplat](https://www.mdpi.com/2072-4292/17/6/993), our exciting project at [Coolant](https://coolant.earth), has been accepted by [Remote Sensing](https://www.mdpi.com/journal/remotesensing).
 - **[Feb. 2025]** [D2S](https://thpjp.github.io/d2s/) additionally accepted to present at [ICRA 2025](https://2025.ieee-icra.org).
 - **[Jan. 2025]** I'll be a short-term visiting scholar at [Technical University of Munich](https://www.ce.cit.tum.de/en/lsr/home/).
 - **[Oct. 2024]** [D2S](https://thpjp.github.io/d2s/) accepted by [RAL](https://www.ieee-ras.org/publications/ra-l) 2024.
-- **[Jul. 2024]** Two papers accepted by [IROS 2024](http://iros2024-abudhabi.org).
+- **[Jul. 2024]** Two papers got accepted by [IROS 2024](http://iros2024-abudhabi.org).
 - **[Feb. 2024]** [PL2Map](https://thpjp.github.io/pl2map/), our new work on sparse 3D points & lines regression is available.
 - **[Jan. 2024]** I received SICE International Young Author Award for our work of [feat2map](https://arxiv.org/abs/2212.01830).
-- **[Aug. 2023]** [D2S](https://thpjp.github.io/d2s/), our new work on sparse coordinate regression is available.
 - **[Mar. 2023]** I recived [Exellent Research Award](https://www.ritsumei.ac.jp/gsise/news/detail/?id=37) for our work of [FeatLoc](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241), GSISE, RU.
 - **[Oct. 2022]**  I will serve as a volunteer of [IROS 2022](https://iros2022.org/).
 - **[Apr. 2022]** Our paper about [absolute camera pose regression](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001241) got accepted to [ISPRS 2022](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).
